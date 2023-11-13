@@ -1,0 +1,41 @@
+EXERCICIO 19
+numero1=float(input("digite o primeiro numero:"))
+numero2= float(input("digite o segundo numero: "))
+soma = numero1 + numero2
+print("a somado numero é:", soma)
+
+EXERCICIO 20
+numero = float(input("digite um numero"))
+if numero >0:
+    print("o valor é positivo.")
+elif numero < 0:
+    print("o valor é negativo.")
+else:
+    print("o valor é zero".)
+    
+    EXERCICIO21
+    sexo = input("digite 'f' para feminino e 'm' para masculino")
+    if sexo =='f':
+        print("f - feminino")
+    elif sexo == 'm':
+        print("m - masculino")
+    else:
+        print("sexo invalido")
+        
+        EXERCICIO22
+        letra = input("digite uma letra: ")
+        if letra in 'aeiouAEIOU'
+        print("a letra é uma vogal. ")
+    else:
+        print("a letra é uma consoante. ")
+        
+        EXERCICIO23
+        nota1 = float(input("digite a primeira nota: "))
+        nota2 = float (input("digite a segunda nota: "))
+        media = (nota1 +nota2) / 2
+        if media == 10:
+            print("aprovado com distinção")
+        elif media >= 7:
+            print("aprovado")
+        else: print("reprovado")
+        
